@@ -1,5 +1,5 @@
 ## profile on Cori Haswell node:
-module load vtune
+module load vtune\n
 srun -n1 vtune -collect memory-access -r toast.vtune.res -finalization-mode=deferred -data-limit=0 toast_benchmark_satellite --case tiny
 
 ## and then finalize on a login node: 
