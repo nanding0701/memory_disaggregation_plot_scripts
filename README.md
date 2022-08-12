@@ -5,9 +5,9 @@ All plotting scripts is created using Python 3.6.7.
 
 Plotting scripts:
 summary_apps_fig6.py: 
-Description:plotting script for Fig.6 "Capacity and bottleneck visualization of applications on a disaggregated memory systems". 
-Commands: python3 summary_apps_fig6.py
-Output: python3 summary_apps_fig6.py
+\n Description:plotting script for Fig.6 "Capacity and bottleneck visualization of applications on a disaggregated memory systems". 
+\n Commands: python3 summary_apps_fig6.py
+\n Output: python3 summary_apps_fig6.py
 
 system_design_space_fig4.py: 
 Description: plotting script for Fig.4 "Disaggregated memory system design space". 
