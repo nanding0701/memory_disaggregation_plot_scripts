@@ -1,8 +1,8 @@
 ## Methodology for Evaluating the Potential of Disaggregated Memory Systems 
-Scripts for the paper entitled "Methodology for Evaluating the Potential of Disaggregated Memory Systems"
+Scripts for the paper entitled "Methodology for Evaluating the Potential of Disaggregated Memory Systems" 
 
 ## Plotting scripts:
-All plotting scripts is created using Python 3.6.7.
+All plotting scripts is created using Python 3.10.
 
 **summary_apps_fig6.py** 
 
